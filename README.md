@@ -1,2 +1,3 @@
 2021-12-05
-# drone-positioning-with-homography
+Replace print statements with movement commands.
+Replace image import with desired image for tracking.
