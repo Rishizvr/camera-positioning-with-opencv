@@ -1,4 +1,3 @@
-# Rishi Zaveri
 # v1 - 2021-12-05
 #
 # credit: David G. Lowe, SIFT algorithm (https://www.cs.ubc.ca/~lowe/papers/ijcv04.pdf)
