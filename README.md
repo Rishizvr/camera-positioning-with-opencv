@@ -6,5 +6,4 @@ Camera guidance system for drone using Python program and OpenCV library. This p
 ## How to Use:
 Replace print statements with movement commands. Replace image import with desired image for tracking.
 ## Credit:
-See David G. Lowe's research on scale-invariant feature transform (SIFT) algorithm (https://www.cs.ubc.ca/~lowe/papers/ijcv04.pdf)
-See tutorial by Pysource on homography in computer vision (https://www.youtube.com/watch?v=I8tHLZDDHr4)
+See David G. Lowe's research on scale-invariant feature transform (SIFT) algorithm (https://www.cs.ubc.ca/~lowe/papers/ijcv04.pdf). See tutorial by Pysource on homography in computer vision (https://www.youtube.com/watch?v=I8tHLZDDHr4)
