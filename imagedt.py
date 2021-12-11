@@ -36,7 +36,7 @@ def showQuadrants(frame):
 def navi(dst):
 	global x, y
 
-	if len(dst) == 4:
+	if len(dst) > 2:
 		print("\n\n===========")
 
 		topLeftPointX = dst[0][0][0]
