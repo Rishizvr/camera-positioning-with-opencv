@@ -1,7 +1,7 @@
-#
+# Rishi Zaveri
+# v1 - 2021-12-05
 #
 # credit: David G. Lowe, SIFT algorithm (https://www.cs.ubc.ca/~lowe/papers/ijcv04.pdf)
-# credit: Sergio Canu (Pysource), source code (https://pysource.com/2018/03/21/feature-detection-sift-surf-obr-opencv-3-4-with-python-3-tutorial-25/)
 
 import cv2
 import numpy as np
