@@ -1,4 +1,4 @@
-# Camera Positioning System with Homography
+# Camera Positioning System
 v1 - 2021-12-05 <br/>
 Camera guidance system for drone using Python program and OpenCV library. This project uses SIFT algorithm for feature extraction, FLANN-based feature matching, and homography transformation matrix for detecting an uploaded image in a video.
 ## Demo: https://youtu.be/Kk6x1lHnKw8
